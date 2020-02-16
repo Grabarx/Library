@@ -1,7 +1,11 @@
+package library.app;
+
+import library.model.Book;
+
 public class Library {
     public static void main(String[] args) {
 
-        final String appName = "Library 0.4";
+        final String appName = "library.app.Library 0.5";
 
         Book book1= new Book("Pan Lodowego Ogrodu tom. 1", "Jarosław Grzędowicz", 2007, 560, "65342834" );
         Book book2= new Book("Pan Lodowego Ogrodu tom. 2", "Jarosław Grzędowicz", 2009, 660);
