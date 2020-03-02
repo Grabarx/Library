@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b07d40e-c17a-41bf-a087-c9ecd54acc2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/model/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/app/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Library/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/library/model/Book.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581785267573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Library v0.5 - Java Beans (setter/getter)">
+      <created>1581858550690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581858550690</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Library v0.3" />
     <MESSAGE value="Library v0.4 - this added (overloading)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Library v0.4 - this added (overloading)" />
+    <MESSAGE value="Library v0.5 - Java Beans (setter/getter)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Library v0.5 - Java Beans (setter/getter)" />
   </component>
 </project>
